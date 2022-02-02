@@ -8,9 +8,15 @@ https://roundfigure.tistory.com/34
 #LoadModule proxy_http_module modules/mod_proxy_http.so
 
 <VirtualHost *:80>
+
   ServerName test.com
+  
   ProxyRequests Off
+  
   ProxyPreserveHost On
+  
   ProxyPass / http://localhost:8080/
+  
   ProxyPassReverse / http://localhost:8080/
+  
 </VirtualHost>
