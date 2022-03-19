@@ -7,7 +7,7 @@ https://roundfigure.tistory.com/34
 
 https://playon.tistory.com/87
 
-*https://judo0179.tistory.com/34
+*https://judo0179.tistory.com/34    change path
 
 # httpd.conf
 ```
