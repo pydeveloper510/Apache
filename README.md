@@ -5,11 +5,13 @@ https://www.lesstif.com/system-admin/forward-proxy-reverse-proxy-21430345.html
 
 https://roundfigure.tistory.com/34
 
-
+# httpd.conf
+```
 #LoadModule proxy_module modules/mod_proxy.so
 
 #LoadModule proxy_http_module modules/mod_proxy_http.so
-
+```
+```
 <VirtualHost *:80>
 
   ServerName test.com
@@ -23,4 +25,4 @@ https://roundfigure.tistory.com/34
   ProxyPassReverse / http://localhost:8080/
   
 </VirtualHost>
-
+```
