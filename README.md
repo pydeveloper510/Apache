@@ -5,6 +5,8 @@ https://www.lesstif.com/system-admin/forward-proxy-reverse-proxy-21430345.html
 
 https://roundfigure.tistory.com/34
 
+https://playon.tistory.com/87
+
 # httpd.conf
 ```
 #LoadModule proxy_module modules/mod_proxy.so
