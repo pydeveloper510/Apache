@@ -1,4 +1,4 @@
-# Apache
+# Apache (Reverse Proxy)
 Forward proxy Reverse proxy
 
 https://www.lesstif.com/system-admin/forward-proxy-reverse-proxy-21430345.html
