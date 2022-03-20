@@ -30,3 +30,6 @@ https://playon.tistory.com/87
   
 </VirtualHost>
 ```
+# Create certificate key (https)
+
+https://manage.sslforfree.com/dashboard
